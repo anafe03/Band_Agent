@@ -5,7 +5,7 @@ description = "LangGraph tools agent with MCP and a RAG tool"
 authors = [
   { name = "langchain-ai" },
 ]
-requires-python = ">=3.11.0,<3.13"
+requires-python = ">=3.11.0,<3.14"
 
 dependencies = [
   "langgraph==0.4.2",
